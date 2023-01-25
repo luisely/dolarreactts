@@ -6,7 +6,7 @@ import { Dolar } from './components/Dolar'
 function App() {
   return (
     <div className="flex justify-center items-center">
-      <div className="w-full max-w-5xl px-6 flex flex-col gap-4">
+      <div className="w-full max-w-md flex flex-col gap-4 m-0">
         <Header />
         <Dolar />
       </div>
